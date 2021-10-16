@@ -4,6 +4,6 @@ resource "aws_s3_bucket" "b" {
 
   tags = {
     Name        = "My bucket new"
-    Environment = "tag"
+    Environment = "ta"
   }
 }
