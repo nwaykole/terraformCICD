@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "nuttaterra"
+    bucket = "nuttaterra88"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
